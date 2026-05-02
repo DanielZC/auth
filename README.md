@@ -29,3 +29,9 @@ DB_PASSWORD=
 4. Ejecutar el comando `composer install` dentro de la carpeta del proyecto
 5. Ejecutar las migraciones: `php artisan migrate --seed` esto ejecutará las migraciones del proyecto y un seeder para crear un usuario por defecto para pruebas rápidas
 6. Ejecutar el comando `php artisan serve` la API se expone en localhost:8000/
+```bash
+{
+    "email": "prueba.tecnica@test.es",
+    "password": "PruebaTecnica01*."
+}
+```
