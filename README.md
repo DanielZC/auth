@@ -50,3 +50,6 @@ DB_PASSWORD=
 ### Autenticación de la API
 - Laravel Sanctum
 - Header `Authorization` con token `Bearer {token}`
+
+### Requerimientos adicionales cumplidos
+- Logout (revocación de token)
