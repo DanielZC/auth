@@ -34,7 +34,7 @@ DB_PASSWORD=
     "password": "PruebaTecnica01*."
 }
 ```
-6. Ejecutar el comando ``php artisan serve --port=8001`` la api se expuesta en localhost:8000/
+7. Ejecutar el comando ``php artisan serve --port=8001`` la api se expuesta en localhost:8000/
 
 # Endpoints Principales
 - Registrar usuario: `POST` `http://localhost:8000/api/auth/services/register`
